@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8626e47a-9fce-4340-8c29-65cd2ffe5d2b" name="Changes" comment="//2&#10;//3&#10;//4" />
+    <list default="true" id="8626e47a-9fce-4340-8c29-65cd2ffe5d2b" name="Changes" comment="//2&#10;//3&#10;//4&#10;//new&#10;//gan&#10;//rty" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +70,7 @@
       <updated>1743447243504</updated>
       <workItem from="1743447244578" duration="3792000" />
       <workItem from="1743451392679" duration="12917000" />
+      <workItem from="1743576887655" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="//2">
       <option name="closed" value="true" />
@@ -95,7 +96,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743576130374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="//2&#10;//3&#10;//4&#10;//new">
+      <option name="closed" value="true" />
+      <created>1743576936057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743576936057</updated>
+    </task>
+    <task id="LOCAL-00005" summary="//2&#10;//3&#10;//4&#10;//new&#10;//gan">
+      <option name="closed" value="true" />
+      <created>1743577378657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743577378657</updated>
+    </task>
+    <task id="LOCAL-00006" summary="//2&#10;//3&#10;//4&#10;//new&#10;//gan&#10;//rty">
+      <option name="closed" value="true" />
+      <created>1743577416611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743577416611</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +130,9 @@
     <MESSAGE value="//2" />
     <MESSAGE value="//2&#10;//3" />
     <MESSAGE value="//2&#10;//3&#10;//4" />
-    <option name="LAST_COMMIT_MESSAGE" value="//2&#10;//3&#10;//4" />
+    <MESSAGE value="//2&#10;//3&#10;//4&#10;//new" />
+    <MESSAGE value="//2&#10;//3&#10;//4&#10;//new&#10;//gan" />
+    <MESSAGE value="//2&#10;//3&#10;//4&#10;//new&#10;//gan&#10;//rty" />
+    <option name="LAST_COMMIT_MESSAGE" value="//2&#10;//3&#10;//4&#10;//new&#10;//gan&#10;//rty" />
   </component>
 </project>
